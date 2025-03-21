@@ -11,7 +11,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 |                                     Desafios de Projetos: Crie um Portfólio Vencedor                                      |     ✅     |
 |                               Lab Project: Contribuindo em um Projeto Open Source no GitHub                               |     ✅     |
 | [Introdução ao Sistema Operacional Linux](/resumos/introducao-ao-git-e-github/introducao-ao-sistema-operacional-linux.md) |     ✅     |
-|                                     Aula Inaugural: Santander — Linux para Iniciantes                                     |            |
+|                                     Aula Inaugural: Santander — Linux para Iniciantes                                     |     ✅     |
 
 ## Introdução a Linux e Scripts
 
