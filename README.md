@@ -17,7 +17,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 
 |                                                    Tópico                                                     | Concluído? |
 | :-----------------------------------------------------------------------------------------------------------: | :--------: |
-|               [Instalando o Linux](/resumos/introducao-a-linux-e-scripts/instalando-o-linux.md)               |            |
+|               [Instalando o Linux](/resumos/introducao-a-linux-e-scripts/instalando-o-linux.md)               |     ✅     |
 |                                        Acesso Remoto a Máquinas Linux                                         |            |
 |                                         Manipulando Arquivos no Linux                                         |            |
 |                                         Gerenciando Usuários no Linux                                         |            |
