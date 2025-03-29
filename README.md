@@ -19,7 +19,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 | :-----------------------------------------------------------------------------------------------------------: | :--------: |
 |               [Instalando o Linux](/resumos/introducao-a-linux-e-scripts/instalando-o-linux.md)               |     ✅     |
 |   [Acesso Remoto a Máquinas Linux](/resumos/introducao-a-linux-e-scripts/acesso-remoto-a-maquinas-linux.md)   |     ✅     |
-|    [Manipulando Arquivos no Linux](/resumos/introducao-a-linux-e-scripts/manipulando-arquivos-no-linux.md)    |            |
+|    [Manipulando Arquivos no Linux](/resumos/introducao-a-linux-e-scripts/manipulando-arquivos-no-linux.md)    |     ✅     |
 |                                         Gerenciando Usuários no Linux                                         |            |
 |                                        Gerenciamento de Pacotes Linux                                         |            |
 |                                         Gerenciamento de Discos Linux                                         |            |
