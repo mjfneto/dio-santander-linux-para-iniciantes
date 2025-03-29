@@ -57,7 +57,7 @@ Posteriormente, usaremos a versão Desktop.
 - Para desligar a máquina virtual, **salvando o estado da máquina virtual**:
   1. Clicar no ❌ para fechar a janela da máquina virtual;
   2. Selecionar `Salvar o estado da máquina`;
-     ![Close Virtual Machine dialog](/resumos/introducao-a-linux-e-scripts/imagens/Screenshot%20from%202025-03-21%2023-43-02.png)
+     ![Close Virtual Machine dialog](/imagens/Screenshot%20from%202025-03-21%2023-43-02.png)
   3. Assim, ao inicializar a MV, recupera-se o estado anterior, sem passar pelo processo de boot.
 
 ### Criando uma conta na AWS
