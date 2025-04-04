@@ -21,7 +21,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 |   [Acesso Remoto a Máquinas Linux](/resumos/introducao-a-linux-e-scripts/acesso-remoto-a-maquinas-linux.md)   |     ✅     |
 |    [Manipulando Arquivos no Linux](/resumos/introducao-a-linux-e-scripts/manipulando-arquivos-no-linux.md)    |     ✅     |
 |    [Gerenciando Usuários no Linux](/resumos/introducao-a-linux-e-scripts/gerenciando-usuarios-no-linux.md)    |     ✅     |
-|                                        Gerenciamento de Pacotes Linux                                         |            |
+|                                        [Gerenciamento de Pacotes Linux](/resumos/introducao-a-linux-e-scripts/gerenciamento-de-pacotes-linux.md)                                         |     ✅     |
 |                                         Gerenciamento de Discos Linux                                         |            |
 |                                   Copiando Arquivos e Manipulando Processos                                   |            |
 | Lab Project: Infraestrutura como Código: Script de Criação de Estruturas de Usuários, Diretórios e Permissões |            |
