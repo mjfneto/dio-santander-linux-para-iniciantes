@@ -24,9 +24,9 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 |            [Gerenciamento de Pacotes Linux](/resumos/introducao-a-linux-e-scripts/gerenciamento-de-pacotes-linux.md)            |     ✅     |
 |             [Gerenciamento de Discos Linux](/resumos/introducao-a-linux-e-scripts/gerenciamento-de-discos-linux.md)             |     ✅     |
 | [Copiando Arquivos e Manipulando Processos](/resumos/introducao-a-linux-e-scripts/copiando-arquivos-e-manipulando-processos.md) |     ✅     |
-|          Lab Project: Infraestrutura como Código: Script de Criação de Estruturas de Usuários, Diretórios e Permissões          |            |
-|                              Desafios de Código: Aperfeiçoe sua Lógica e Pensamento Computacional                               |            |
-|                                             Code Challenge: Associando Comandos CLI                                             |            |
+|          Lab Project: Infraestrutura como Código: Script de Criação de Estruturas de Usuários, Diretórios e Permissões          |     ✅     |
+|                              Desafios de Código: Aperfeiçoe sua Lógica e Pensamento Computacional                               |     ✅     |
+|                                             Code Challenge: Associando Comandos CLI                                             |     ✅     |
 
 ## Servidores Linux e Docker
 
