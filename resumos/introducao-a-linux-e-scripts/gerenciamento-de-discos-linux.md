@@ -36,6 +36,15 @@ fdisk -l
 fdisk /dev/sdb
 ```
 
+Inicializada a configuração do `fdisk` com o comando acima, passamos às etapas de configuração da tabela de partição:
+
+1. `n` para criar uma nova partição;
+2. `p` para criar uma partição primária;
+3. `1` para definir o número da partição;
+4. `Enter` para selecionar o padrão para o primeiro setor;
+5. `Enter` para selecionar o padrão para o setor final;
+6. `w` para salvar as mudanças em disco e sair.
+
 #### Formatando
 
 Para formatar o disco, é preciso indicar qual sistema de arquivos você utilizará.
