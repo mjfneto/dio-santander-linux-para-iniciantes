@@ -30,11 +30,11 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 
 ## Servidores Linux e Docker
 
-|                                                   Tópico                                                   | Concluído? |
-| :--------------------------------------------------------------------------------------------------------: | :--------: |
-| [Servidores de Arquivos com Linux](/resumos/servidores-linux-e-docker/servidores-de-arquivos-com-linux.md) |     ✅     |
-|                                     Criando um Servidor Web com Linux                                      |            |
-|                                    Servidor de Banco de Dados com Linux                                    |            |
-|                                         Conhecendo o Linux Desktop                                         |            |
-|      Lab Project: Infraestrutura como Código – Script de Provisionamento de um Servidor Web (Apache)       |            |
-|                    Lab Project: Docker: Utilização Prática no Cenário de Microsserviços                    |            |
+|                                                    Tópico                                                    | Concluído? |
+| :----------------------------------------------------------------------------------------------------------: | :--------: |
+|  [Servidores de Arquivos com Linux](/resumos/servidores-linux-e-docker/servidores-de-arquivos-com-linux.md)  |     ✅     |
+| [Criando um Servidor Web com Linux](/resumos/servidores-linux-e-docker/criando-um-servidor-web-com-linux.md) |            |
+|                                     Servidor de Banco de Dados com Linux                                     |            |
+|                                          Conhecendo o Linux Desktop                                          |            |
+|       Lab Project: Infraestrutura como Código – Script de Provisionamento de um Servidor Web (Apache)        |            |
+|                     Lab Project: Docker: Utilização Prática no Cenário de Microsserviços                     |            |
