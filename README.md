@@ -32,7 +32,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 
 |                                                   Tópico                                                   | Concluído? |
 | :--------------------------------------------------------------------------------------------------------: | :--------: |
-| [Servidores de Arquivos com Linux](/resumos/servidores-linux-e-docker/servidores-de-arquivos-com-linux.md) |            |
+| [Servidores de Arquivos com Linux](/resumos/servidores-linux-e-docker/servidores-de-arquivos-com-linux.md) |     ✅     |
 |                                     Criando um Servidor Web com Linux                                      |            |
 |                                    Servidor de Banco de Dados com Linux                                    |            |
 |                                         Conhecendo o Linux Desktop                                         |            |
