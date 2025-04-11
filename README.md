@@ -36,5 +36,5 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp Li
 |    [Criando um Servidor Web com Linux](/resumos/servidores-linux-e-docker/criando-um-servidor-web-com-linux.md)    |     ✅     |
 | [Servidor de Banco de Dados com Linux](/resumos/servidores-linux-e-docker/servidor-de-banco-de-dados-com-linux.md) |     ✅     |
 |           [Conhecendo o Linux Desktop](/resumos/servidores-linux-e-docker/conhecendo-o-linux-desktop.md)           |     ✅     |
-|          Lab Project: Infraestrutura como Código – Script de Provisionamento de um Servidor Web (Apache)           |            |
+|          Lab Project: Infraestrutura como Código – Script de Provisionamento de um Servidor Web (Apache)           |     ✅     |
 |                        Lab Project: Docker: Utilização Prática no Cenário de Microsserviços                        |            |
